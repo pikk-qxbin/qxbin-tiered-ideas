@@ -1,0 +1,68 @@
+Dual License: Apache License 2.0 OR MIT License
+
+Copyright (c) 2026 Rupesh Malpani / pikk.company
+
+This project is dual-licensed. You may use it under the terms of either:
+
+1. Apache License, Version 2.0 (recommended for its explicit patent grant and compatibility with modern open source ecosystems, especially hardware/quantum-inspired work)
+
+OR
+
+2. MIT License (for maximum simplicity and permissiveness)
+
+The choice is yours.
+
+## Apache License, Version 2.0
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+## MIT License (Alternative)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Usage & Commercial Terms — Ironclad Protection (applies to both licenses)
+
+This license stays deliberately permissive and open for genuine experimentation, learning, internal use, research, and non-commercial building. It is designed to prevent easy workarounds — especially via AI models, code generators, "reimplementations," or claims of independent creation — when commercial value is captured from the QxBin framework.
+
+**Free for:**
+- Testing, experimentation, education, and personal/non-commercial projects.
+- Internal organizational systems and process improvements using your own development resources.
+- Building and sharing your own tools or extensions without selling them.
+
+**Commercial terms (no AI or reimplementation loopholes):**
+- A **51% revenue share** with the copyright holders (Rupesh Malpani / pikk.company) applies on **all gross revenue** from any commercial tool, product, API, service, SaaS offering, or monetized deployment that:
+  - Incorporates, is substantially derived from, ports, translates, or replicates core QxBin logic (Binary Probability Matrices, fractional-state superposition via bias^n / (1-bias)^m exponents, probabilistic chains/grids, measurement/collapse mechanics, or related edge/cloud simulation patterns).
+  - Is created, assisted, generated, rewritten, refactored, or "clean-room reimplemented" with the help of any AI/LLM (Grok, Claude, GPT, Gemini, or any other model or automated code tool), even if the final source looks different.
+  - Is sold, licensed, or offered commercially to customers or end-users (whether direct sale, API access, embedded in hardware, or part of a larger product).
+
+- This protection is intentional and ironclad in spirit: exposure to the public QxBin work + subsequent commercial monetization of substantially similar probabilistic computing capabilities triggers the share. Truly independent inventions developed entirely without reference to QxBin concepts or materials are not subject to these terms.
+
+Enterprise-scale deployments, strategic partnerships, volume licensing, or custom commercial arrangements are fully negotiable — reach out directly to @rupeshmalpani to align terms and move fast.
+
+This keeps the ecosystem wide open for builders, researchers, and tinkerers while ensuring the originators who pushed the frontier get sustained support when real commercial value is created at scale. Part of the pikk-qxbin vision: Democratizing advanced compute. Ship fast. Align incentives.
